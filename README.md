@@ -1,4 +1,4 @@
-# Experimetrics BITSS Workshop
+# Experimetrics BITSS Workshop mariana Blanco
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
 ---
