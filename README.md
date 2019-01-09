@@ -1,4 +1,4 @@
-# Experimetrics BITSS Workshop mariana Blanco
+# Experimetrics BITSS Workshop mariana Blanco Branch 1
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
 ---
